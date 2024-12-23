@@ -1,6 +1,6 @@
 <a href="https://www.mindinventory.com/?utm_source=gthb&utm_medium=repo&utm_campaign=lassi"><img src="https://github.com/Sammindinventory/MindInventory/blob/main/Banner.png"></a>
 
-# MiTextToSpeech
+# MiTextToSpeech [![](https://jitpack.io/v/Mindinventory/MiTextToSpeech.svg)](https://jitpack.io/#Mindinventory/MiTextToSpeech)
 MiTextToSpeech is the simplest way to integrate TextToSpeech functionality into your application.
 ## Screenshots
 
