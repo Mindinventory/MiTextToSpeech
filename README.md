@@ -4,9 +4,15 @@
 MiTextToSpeech is the simplest way to integrate TextToSpeech functionality into your application.
 ## Screenshots
 
-Image             |  Video
-:-------------------------:|:-------------------------:
-  ![image](/media/img.png) | ![Video](/media/video.mp4)
+
+### Image
+![image](/media/img.png)
+
+### Video
+
+
+https://github.com/user-attachments/assets/0069bbd0-9b1e-4e40-af84-151fd4a29147
+
 
 
 ### Key features 
